@@ -1,0 +1,782 @@
+[
+  {
+    "id": "dh1",
+    "title": "Valley Tees",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/fashion-trend-full-drill-ripped-pants-mens/1092919831.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh2",
+    "title": "Spiderman Zip Ups",
+    "price": 30,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-spider-print-hoodies-women-hip-hop-zipper/1068327881.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh3",
+    "title": "West Coast Choppers Tees",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/summer-men-t-shirt-women-men-cotton-west/1068742330.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh4",
+    "title": "Sport Graphic Tees",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-s-t-shirts-y2k-harajuku-spider-web-shirt/1041704516.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh5",
+    "title": "West Coast Choppers Thermals",
+    "price": 25,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/new-autumn-waffle-sanskrit-west-coast-choppers/1082087690.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh6",
+    "title": "Graphic Tees 1",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/2024-summer-mens-t-shirt-high-quality-fashion/991488033.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh7",
+    "title": "Balenciaga Hoodie & Shirts",
+    "price": 35,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-hoodie-for-man-mens-womens-sweatshirt/809487279.html",
+    "rating": 0,
+    "notes": "~$25-$45 est.",
+    "starred": false
+  },
+  {
+    "id": "dh8",
+    "title": "Balenciaga Double Waisted Pants",
+    "price": 45,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-s-plus-size-pants-round-neck-embroidered/1066262578.html",
+    "rating": 0,
+    "notes": "~$35-$55 est.",
+    "starred": false
+  },
+  {
+    "id": "dh9",
+    "title": "Cheapest Hellstar Hoodie",
+    "price": 37.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/autumn-and-winter-yoga-hoodie-scuba-lululemens/843497828.html",
+    "rating": 0,
+    "notes": "~$30-$45 est.",
+    "starred": false
+  },
+  {
+    "id": "dh10",
+    "title": "Cheap Hellstar Tee",
+    "price": 22.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-t-shirts-short-black-men-s-denim/933876066.html",
+    "rating": 0,
+    "notes": "~$15-$30 est.",
+    "starred": false
+  },
+  {
+    "id": "dh11",
+    "title": "Chrome Hearts Hoodies & Jeans",
+    "price": 55,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-hoodies-sweatshirts-pullover-cardigan/1033236303.html",
+    "rating": 0,
+    "notes": "~$40-$70 est.",
+    "starred": false
+  },
+  {
+    "id": "dh12",
+    "title": "Balenciaga Hoodies",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/homme-hooded-women-designer-hoodie-mens-clothing/1090359914.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh13",
+    "title": "LV Tees",
+    "price": 27.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-mens-shirt-shorts-letter-print-womens/1036729616.html",
+    "rating": 0,
+    "notes": "~$20-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh14",
+    "title": "Rhude Shorts",
+    "price": 27.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-mens-shorts-brand-luxury-mens-short/951436884.html",
+    "rating": 0,
+    "notes": "~$20-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh15",
+    "title": "Sp5der Tees",
+    "price": 22.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/2026-pbossp5-tshirt-new-fashion-clothing/1103667686.html",
+    "rating": 0,
+    "notes": "~$15-$30 est.",
+    "starred": false
+  },
+  {
+    "id": "dh16",
+    "title": "Mertra Puffer",
+    "price": 65,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-mertra-puffer-jacket-men-woman-mertra/1083519253.html",
+    "rating": 0,
+    "notes": "~$50-$80 est.",
+    "starred": false
+  },
+  {
+    "id": "dh17",
+    "title": "LV Jean Shorts",
+    "price": 32.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/99a-denim-jeans-mens-shorts-classic-pants/1098846839.html",
+    "rating": 0,
+    "notes": "~$25-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh18",
+    "title": "ERD Hoodie",
+    "price": 50,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-hoodie-men-s-sweatshirt-fashion/1075836043.html",
+    "rating": 0,
+    "notes": "~$40-$60 est.",
+    "starred": false
+  },
+  {
+    "id": "dh19",
+    "title": "Denim Tears",
+    "price": 35,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/anddt-2025-new-designer-men-s-and-women-s/1047425270.html",
+    "rating": 0,
+    "notes": "~$25-$45 est.",
+    "starred": false
+  },
+  {
+    "id": "dh20",
+    "title": "Sp5der Hoodie",
+    "price": 50,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/2021-designer-warm-hooded-hoodies-sweater/739463621.html",
+    "rating": 0,
+    "notes": "~$40-$60 est.",
+    "starred": false
+  },
+  {
+    "id": "dh21",
+    "title": "Cheaper Sp5der Hoodie",
+    "price": 32.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/5a-hoodie-mens-sp5ders-spider-hoodie-for/1017243755.html",
+    "rating": 0,
+    "notes": "~$25-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh22",
+    "title": "Graphic Tees 2",
+    "price": 22.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-tshirt-luxury-designer-graphic-tee-for/1066977344.html",
+    "rating": 0,
+    "notes": "~$15-$30 est.",
+    "starred": false
+  },
+  {
+    "id": "dh23",
+    "title": "Stussy Tee",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-designer-cotton-t-shirt-letter-print/1048236427.html",
+    "rating": 0,
+    "notes": "~$15-$25 est.",
+    "starred": false
+  },
+  {
+    "id": "dh24",
+    "title": "Insta Jeans",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-s-jeans-y2k-men-vintage-american-pattern/1048240376.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh25",
+    "title": "Supreme Hoodie",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/new-2025-men-s-superme-hoodie-designer-hoodie-fnf-1/1063360111.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh26",
+    "title": "Chrome Hearts Tees",
+    "price": 27.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-mens-t-shirt-graphic-tee-designer/1099722122.html",
+    "rating": 0,
+    "notes": "~$20-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh27",
+    "title": "Balenciaga Tees",
+    "price": 27.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-plus-tshirt-5a-paris-2024-bb-t-shirts/951949934.html",
+    "rating": 0,
+    "notes": "~$20-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh28",
+    "title": "Budget Balenciaga Tees",
+    "price": 20,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-designer-t-shirt-fashion-tshirt-tops/967604205.html",
+    "rating": 0,
+    "notes": "~$15-$25 est.",
+    "starred": false
+  },
+  {
+    "id": "dh29",
+    "title": "VVS Jean Shorts",
+    "price": 32.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-s-shorts-streetwear-couple-vintage-rhinestone/1049454332.html",
+    "rating": 0,
+    "notes": "~$25-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh30",
+    "title": "Bape x Minions / Chrome",
+    "price": 32.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/cha-nel-dept-dupe-t-shirts-casual-t-shirts/759436102.html",
+    "rating": 0,
+    "notes": "~$25-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh31",
+    "title": "Hellstar Tee",
+    "price": 27.14,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/t-shirt-designer-t-shirt-pattern-t-shirt/1045384616.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh32",
+    "title": "Chrome Tracksuit",
+    "price": 55,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/tech-thick-mens-tracksuit-long-sleeve-hoodie/752393528.html",
+    "rating": 0,
+    "notes": "~$40-$70 est.",
+    "starred": false
+  },
+  {
+    "id": "dh33",
+    "title": "Corteiz Tee",
+    "price": 22.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/zsla-fashion-casual-t-shirt-long-sleeves/1026107258.html",
+    "rating": 0,
+    "notes": "~$15-$30 est.",
+    "starred": false
+  },
+  {
+    "id": "dh34",
+    "title": "Balenciaga Shorts",
+    "price": 27.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-shorts-athletic-shorts-printed-letter/1093575249.html",
+    "rating": 0,
+    "notes": "~$20-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh35",
+    "title": "Eric Emmanuel Shorts",
+    "price": 18.64,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-bracelet-for-women-luxury-bracelet/904887769.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh36",
+    "title": "Hellstar Shorts",
+    "price": 31.18,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-tracksuit-sweat-suits-sports-suit-men/822982471.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh37",
+    "title": "Essentials",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/designer-hoodie-fashion-men-women-classic/837686769.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh38",
+    "title": "Alo Sets",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/women-s-yoga-sets-heart-throb-bra-leggings/1065938343.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh39",
+    "title": "Bape Hoodies & Tees",
+    "price": 38,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-womens-hoodies-designer-pullover-hoodie/1062858337.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh40",
+    "title": "Bape Tees",
+    "price": 34.74,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/mens-t-shirt-tops-t-shirts-sporty-womens/796088292.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh41",
+    "title": "Chrome Meshwear",
+    "price": 25,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/ch-designer-men-t-shirts-for-women-luxury/1109809291.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh42",
+    "title": "Baggy Jeans",
+    "price": 40,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/men-s-jeans-streetwear-jnco-y2k-hip-hop-cartoon/908811907.html",
+    "rating": 0,
+    "notes": "~$30-$50 est.",
+    "starred": false
+  },
+  {
+    "id": "dh43",
+    "title": "Graphic Tees 3",
+    "price": 22.5,
+    "category": "Clothing & Apparel",
+    "link": "https://www.dhgate.com/product/valley-dream-shirt-designer-t-shirt-high/1095844295.html",
+    "rating": 0,
+    "notes": "~$15-$30 est.",
+    "starred": false
+  },
+  {
+    "id": "dh44",
+    "title": "Timbs",
+    "price": 50,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/4s-11s-kids-shoes-gamma-blue-basketball-shoes/1091228756.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh45",
+    "title": "LV & Dior Shoes",
+    "price": 60,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/designer-shoes-brand-fashion-quality-casual/1079977060.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh46",
+    "title": "Ja 3 Sneakers",
+    "price": 62.5,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/top-ja-3s-men-women-basketball-shoes-morants/1062261130.html",
+    "rating": 0,
+    "notes": "~$45-$80 est.",
+    "starred": false
+  },
+  {
+    "id": "dh47",
+    "title": "Asics Sneakers",
+    "price": 55,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/og-with-box-4-5-11-mens-basketball-shoes/832961283.html",
+    "rating": 0,
+    "notes": "~$40-$70 est.",
+    "starred": false
+  },
+  {
+    "id": "dh48",
+    "title": "Bottega Orbit Runners",
+    "price": 70,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/designer-shoes-orbit-runner-casual-for-men/1038382073.html",
+    "rating": 3,
+    "notes": "Top rating recommendation (~$50-$90 est.)",
+    "starred": true
+  },
+  {
+    "id": "dh49",
+    "title": "New Balance 2002R",
+    "price": 55,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/2002r-mens-womens-designer-casual-shoes-fashion/840113912.html",
+    "rating": 0,
+    "notes": "~$40-$70 est.",
+    "starred": false
+  },
+  {
+    "id": "dh50",
+    "title": "Yeezy Slides/Foam Runners",
+    "price": 25.98,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/shoes-lace-fashion-brand-men-women-shoe-warm/922679002.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh51",
+    "title": "Balenciaga Runners",
+    "price": 100,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/designer-casual-shoes-track-runners-7-7-0/1106776396.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh52",
+    "title": "Balenciaga Slides",
+    "price": 30.08,
+    "category": "Footwear",
+    "link": "https://www.dhgate.com/product/designer-paris-winter-slippers-slides-men/1098233670.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh53",
+    "title": "AirPod",
+    "price": 24.53,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/2026-clear-case-for-model-pro-2-3-4-shockproof/1094255262.html",
+    "rating": 3,
+    "notes": "Highly rated budget audio",
+    "starred": true
+  },
+  {
+    "id": "dh54",
+    "title": "AirPods Max",
+    "price": 119.17,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/hot-selling-usa-stock-for-model-max-usbc/1094256528.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh55",
+    "title": "Supreme Backpack",
+    "price": 35,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/backpack-school-outdoor-messenger-bags-unisex/1048917194.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh56",
+    "title": "Rolex Style Watch",
+    "price": 85.34,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/montre-de-luxe-mens-watches-41mm-automatic/612502247.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh57",
+    "title": "Diamond / Iced Watch",
+    "price": 46,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/vvs-top-quality-automatic-mechanical-iced/1083628389.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh58",
+    "title": "Cartier Style Glasses",
+    "price": 45.97,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/2023ss-signature-sunglasses-cheetah-classic/852383122.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh59",
+    "title": "Prada Style Sunglasses",
+    "price": 18.51,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/fashion-designer-sunglasses-classic-eyeglasses/753084523.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh60",
+    "title": "Nike Elite Bag",
+    "price": 40.8,
+    "category": "Accessories, Electronics & Watches",
+    "link": "https://www.dhgate.com/product/outdoor-bags-unisex-elite-pro-hoops-sports/945204626.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh61",
+    "title": "Cologne Gift Sets",
+    "price": 32.5,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/perfume-set-30ml-3-4-pieces-5ml-7-5ml-6-pieces/1024052548.html",
+    "rating": 0,
+    "notes": "~$25-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh62",
+    "title": "Kylie Style Gift Sets",
+    "price": 30,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/newest-pre-sale-kylie-jenner-valentine-039/395982037.html",
+    "rating": 0,
+    "notes": "~$25-$35 est.",
+    "starred": false
+  },
+  {
+    "id": "dh63",
+    "title": "PDM Style",
+    "price": 31.21,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/luxury-designer-perfume-layton-althair-125ml/976203722.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh64",
+    "title": "Maison Margiela / SWY / Creed / YSL / Tom Ford / Baccarat Style",
+    "price": 30,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/maison-fragrance-100ml-across-sands-flying/959719587.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh65",
+    "title": "Tom Ford Style",
+    "price": 29.05,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/golden-edition-creed-millesime-imperial-fragrance/735429800.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh66",
+    "title": "Gift Sets",
+    "price": 32.35,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/newest-pre-sale-kylie-jenner-valentine-039/395982037.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh67",
+    "title": "SWY / YSL / JPG / Valentino / Dior / Creed / Versace / Chanel Style",
+    "price": 29.93,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/us-warehouse-3-7-days-fast-delivery-premium/1070948937.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh68",
+    "title": "Baccarat / YSL / JPG / Valentino / Tom Ford / SWY Style",
+    "price": 35.93,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/designer-cologne-for-mens-perfume-women-fragrance/1078928658.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh69",
+    "title": "Baccarat / Creed / JPG / Azzaro / NYC Style",
+    "price": 36.62,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/top-quality-men-perfumes-100ml-eau-de-parfum/1023863227.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh70",
+    "title": "JPG & YSL Style",
+    "price": 27.3,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/fast-shipping-in-usa-men-perfumes-125ml-edp/979337683.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh71",
+    "title": "JPG / Azzaro / Creed / NYC / Paco Rabanne Style",
+    "price": 28.87,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/new-men-cologne-parfume-new-men-s-high-quality/1021872177.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh72",
+    "title": "Azzaro / JPG / YSL / Versace / Valentino / Paco Rabanne Style",
+    "price": 27.59,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/cologne-perfume-incense-125ml-original-parfume/935712560.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh73",
+    "title": "Creed / YSL / NYC / Tom Ford / Versace / Paco Rabanne Style",
+    "price": 25.87,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/designer-cologne-man-perfume-y-male-perfume/1070950329.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh74",
+    "title": "Initio Side Effect Style",
+    "price": 34.37,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/90ml-side-effect-parfums-prives-mystic-experience/1053141189.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh75",
+    "title": "Creed Style",
+    "price": 30.19,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/famous-brand-women-perfume-le-lion-100ml/813086491.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh76",
+    "title": "JPG Style",
+    "price": 23.71,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/dhl-free-ship-premierlash-brand-magic-cream/733754124.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  },
+  {
+    "id": "dh77",
+    "title": "Margiela / YSL / SWY / Creed / Tom Ford Style",
+    "price": 35,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/highest-quality-70ml-man-women-perfume-grand/1026913779.html",
+    "rating": 0,
+    "notes": "~$30-$40 est.",
+    "starred": false
+  },
+  {
+    "id": "dh78",
+    "title": "LV Style",
+    "price": 28.43,
+    "category": "Colognes & Fragrances",
+    "link": "https://www.dhgate.com/product/high-quality-sables-roses-mille-feux-rose/976643934.html",
+    "rating": 0,
+    "notes": "",
+    "starred": false
+  }
+]
